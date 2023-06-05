@@ -1,7 +1,7 @@
 [submodule "tesstrain"]
 	path = tesstrain
-	url = git@github.com:tesseract-ocr/tesstrain.git
+	url = https://github.com/tesseract-ocr/tesstrain.git
 [submodule "tesseract"]
 	path = tesseract
-	url = git@github.com:tesseract-ocr/tesseract.git
+	url = https://github.com/tesseract-ocr/tesseract.git
 
