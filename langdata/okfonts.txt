@@ -690,6 +690,7 @@ BPG Chveulebrivi Bold
 BPG Chveulebrivi Regular
 BPG Courier Bold
 BPG Courier Regular
+BPG CourierETT
 BPG Elite Bold
 BPG Elite Regular
 BPG Glaho Bold
